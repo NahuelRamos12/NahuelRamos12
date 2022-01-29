@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @NahuelRamos12
-- 👀 I’m interested in create solutions making code 
 - 🌱 I’m currently learning web development and studying Computer Engineering
 - 📫 How to reach me:
 Email: nahuelramos8@gmail.com,
