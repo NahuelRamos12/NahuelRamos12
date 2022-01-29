@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning web development and studying Computer Engineering
 - 📫 How to reach me:
 Email: nahuelramos8@gmail.com,
-Phone number: +54 297 4121682,
 Linkedin: linkedin.com/in/carlos-nahuel-ramos-veron-a35651215/
 
 <!---
